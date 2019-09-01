@@ -31,3 +31,10 @@ hs_err_pid*
 .classpath
 .project
 .settings/
+
+
+.DS_Store
+
+_dockerCerts/
+
+.factorypath
